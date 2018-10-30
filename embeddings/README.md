@@ -1,0 +1,1 @@
+The embeddings extracted from the trained audio CNN will be placed in this directory.
